@@ -1,6 +1,7 @@
 # Melody-s-Harp-Solver
 For all the Hypixel Skyblock Community
 
+I will upload a video explaining how it works
 
 Im working on it, it will be uploaded soon.
 
